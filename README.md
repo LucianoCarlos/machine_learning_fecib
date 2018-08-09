@@ -38,3 +38,5 @@ Com o ambiente virtual ativado, instale as dependências, listadas no arquivo "r
 Com o ambiente configurado, entre na pasta "/src" e execute o arquivo "server.py". Após, abra o navegador e vá para o endereço: http://127.0.0.1:5000:
 <pre>(qlv)$ python server.py</pre>
 
+Protótipo em funcionamento: https://desafiodovinho.herokuapp.com/
+
